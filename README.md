@@ -1,7 +1,3 @@
-<!--Please do not remove this part-->
-![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
-
 # Script Title
 
 <!--An image is an illustration for your project, the tip here is using your sense of humour as much as you can :D 
@@ -33,12 +29,6 @@ Just open a terminal in the folder where your script is located and run the foll
 python main.py
 ```
 
-## 📺 Demo
-
-![demo](https://user-images.githubusercontent.com/87910771/147886979-a12cd79a-8f49-4603-b568-4991dde28feb.jpg)
-
-
-
 ## 🤖 Author
 <!--Remove the below lines and add yours -->
-[AnishLohiya](https://github.com/AnishLohiya)
+[Eshan Chathuranga](https://github.com/sky7026)
